@@ -1,0 +1,2 @@
+.container{display:flex;position:relative;grid-gap:10px;gap:10px}.button{background-color:tomato;height:40px;width:80px;border-radius:10px;font-weight:700;color:#eee;font-size:1.5rem;cursor:pointer;transition:color .4s,background-color .4s}.button:focus,.button:hover{background-color:#eee;color:tomato}.paragraph{position:absolute;left:0;font-size:2rem}
+/*# sourceMappingURL=main.777c5031.chunk.css.map */
